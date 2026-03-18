@@ -1,9 +1,9 @@
-%define device Spacewar
+%define device spacewar
 %define vendor nothing
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Nothing
-%define device_pretty phone (1)
+%define device_pretty Phone (1)
 
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
 %define have_vibrator_native 1
